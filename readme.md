@@ -1,8 +1,10 @@
+GΛPTEK Technology
 
+==================================================
 Nama : GALIH AJI PAMBUDI
 NIM : 3332180058
 UTS Mata Kuliah Pemrograman Web
-==================================================
+
 
 GΛPTEK Technology (Galih Aji Pambudi Teknik Technology)
 
