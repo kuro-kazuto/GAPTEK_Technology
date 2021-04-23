@@ -1,6 +1,6 @@
 GΛPTEK Technology
 
-
+==================================================
 
 Nama : GALIH AJI PAMBUDI
 
